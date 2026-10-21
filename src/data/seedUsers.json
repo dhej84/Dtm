@@ -1,0 +1,578 @@
+[
+  {
+    "id": "user-maya-lin",
+    "name": "Maya Lin",
+    "email": "maya.lin@berkeley.edu",
+    "university": "UC Berkeley",
+    "department": "Computer Science",
+    "year": "'25",
+    "bio": "Junior in CS @ Berkeley. Passionate about algorithms, open source, and learning Spanish & music on the side!",
+    "location": "Berkeley, CA",
+    "avatarUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuB5CAirUVEEuP1VaUaB2ncK8D66cNXhexcZ4km7DLQPHn2yotteti-3arDFoHSUayl-yhWqANKXtTuZm_HzI-W34ivEOPzq1GB1LxBtCqDm3BU9G-xU59TVPN6fAgidqL2lcwxIiwa4Gj03dyrqaukkf-SaiegusYasEynfjq_hO_EfUODnQlocQWUDKhWUvGHKm8fAao70-gRay5V4JC-CS9xOCqd9iwWHU0NkIqWtzAaiqRff0K2O",
+    "isVerified": true,
+    "rank": "Campus Fellow",
+    "memberSince": "Aug 2023",
+    "walletBalance": 14,
+    "hoursTaught": 28,
+    "hoursLearned": 19,
+    "peerReputation": 4.95,
+    "reviewCount": 32,
+    "swapFulfillRate": 100,
+    "publicProfileId": "maya-lin-8f2a",
+    "publicProfileEnabled": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1",
+        "name": "Data Structures & Algorithms (Python/Java)",
+        "category": "Computer Science",
+        "level": "Mastery",
+        "hoursTaught": 18,
+        "reviewsCount": 14,
+        "endorsementsCount": 19,
+        "proficiencyPercent": 95,
+        "description": "Binary trees, graphs, dynamic programming, and complexity trade-offs for technical interviews."
+      },
+      {
+        "id": "ts-2",
+        "name": "Web Dev (React & Tailwind CSS)",
+        "category": "Computer Science",
+        "level": "Advanced",
+        "hoursTaught": 6,
+        "reviewsCount": 5,
+        "endorsementsCount": 12,
+        "proficiencyPercent": 82,
+        "description": "Component architecture, state management hooks, responsive layouts, and Tailwind token pipelines."
+      },
+      {
+        "id": "ts-3",
+        "name": "Git, GitHub & Open Source Collaboration",
+        "category": "Software Engineering",
+        "level": "Advanced",
+        "hoursTaught": 4,
+        "reviewsCount": 4,
+        "endorsementsCount": 15,
+        "proficiencyPercent": 88,
+        "description": "Rebasing, pull request review cycles, branching strategies, and open-source contribution hygiene."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1",
+        "name": "Conversational Spanish (Intermediate B1)",
+        "category": "Languages",
+        "currentLevel": "Intermediate",
+        "targetLevel": "Advanced",
+        "progressPercent": 65,
+        "hoursPracticed": 10,
+        "partnerName": "Carlos M.",
+        "targetDate": "Dec 2024"
+      },
+      {
+        "id": "ls-2",
+        "name": "Acoustic Guitar Basics & Music Theory",
+        "category": "Music & Arts",
+        "currentLevel": "Beginner",
+        "targetLevel": "Intermediate",
+        "progressPercent": 40,
+        "hoursPracticed": 6,
+        "partnerName": "Priya K.",
+        "targetDate": "Spring '25"
+      },
+      {
+        "id": "ls-3",
+        "name": "UI/UX Micro-Interactions (Figma Pro)",
+        "category": "Design & UX",
+        "currentLevel": "Beginner",
+        "targetLevel": "Intermediate",
+        "progressPercent": 25,
+        "hoursPracticed": 3,
+        "partnerName": "Seeking Mentor",
+        "targetDate": "Open for Swap"
+      }
+    ],
+    "badges": [
+      {
+        "id": "b-1",
+        "title": "Master Explainer",
+        "category": "Teaching Mastery",
+        "description": "5+ peers consecutively rated lesson clarity 5/5 during live algorithm sessions.",
+        "icon": "workspace_premium",
+        "iconBgColor": "bg-[#82f5c1] text-[#00714e]",
+        "progressText": "5/5",
+        "fillPercent": 100,
+        "issuedDate": "Sep 2024",
+        "levelBadge": "Level III Achieved",
+        "endorsementsCount": 8,
+        "userEndorsed": false
+      },
+      {
+        "id": "b-2",
+        "title": "Python Pillar",
+        "category": "Teaching Mastery",
+        "description": "20+ verified hours of Python and Data Structures tutoring delivered to underclassmen.",
+        "icon": "code",
+        "iconBgColor": "bg-[#4f46e5] text-[#ffffff]",
+        "progressText": "28h",
+        "fillPercent": 100,
+        "issuedDate": "Oct 2024",
+        "levelBadge": "28 / 20 hrs",
+        "endorsementsCount": 11,
+        "userEndorsed": false
+      },
+      {
+        "id": "b-3",
+        "title": "Rapid Responder",
+        "category": "Teaching Mastery",
+        "description": "Average swap proposal response time < 2 hours across all incoming requests.",
+        "icon": "bolt",
+        "iconBgColor": "bg-[#ffdcc3] text-[#703a00]",
+        "progressText": "1.2h",
+        "fillPercent": 92,
+        "issuedDate": "Aug 2024",
+        "levelBadge": "Top 5% Campus",
+        "endorsementsCount": 9,
+        "userEndorsed": false
+      },
+      {
+        "id": "b-4",
+        "title": "Polyglot in Progress",
+        "category": "Learning Milestones",
+        "description": "Completed 10 conversational Spanish practice sessions with native speaking peers.",
+        "icon": "translate",
+        "iconBgColor": "bg-[#eaedff] text-[#3525cd]",
+        "progressText": "10/10",
+        "fillPercent": 100,
+        "issuedDate": "Nov 2024",
+        "levelBadge": "B1 Fluency Target",
+        "endorsementsCount": 6,
+        "userEndorsed": false
+      },
+      {
+        "id": "b-5",
+        "title": "Consistent Learner",
+        "category": "Learning Milestones",
+        "description": "Maintained an unbroken 4-week active exchange streak across midterm cycles.",
+        "icon": "local_fire_department",
+        "iconBgColor": "bg-[#82f5c1] text-[#00714e]",
+        "progressText": "4 wks",
+        "fillPercent": 100,
+        "issuedDate": "Oct 2024",
+        "levelBadge": "Streak Active 🔥",
+        "endorsementsCount": 8,
+        "userEndorsed": false
+      },
+      {
+        "id": "b-6",
+        "title": "Skill Gap Conqueror",
+        "category": "Learning Milestones",
+        "description": "Successfully overcame a diagnosed diagnostic prerequisite gap in Advanced Tree Traversal.",
+        "icon": "psychology",
+        "iconBgColor": "bg-[#e2e7ff] text-[#3525cd]",
+        "progressText": "100%",
+        "fillPercent": 100,
+        "issuedDate": "Sep 2024",
+        "levelBadge": "CS61B Aligned",
+        "endorsementsCount": 8,
+        "userEndorsed": false
+      }
+    ],
+    "reviews": [
+      {
+        "id": "rev-1",
+        "authorName": "Carlos M.",
+        "authorInitials": "CM",
+        "authorProgram": "Econ & Spanish • Cal '26",
+        "rating": 5,
+        "comment": "Maya's explanation of binary search trees made it click immediately! She drew interactive diagrams that made my homework a breeze. In exchange, her Spanish conversational flow has skyrocketed.",
+        "topic": "CS61B Midterm Prep",
+        "date": "Oct 28, 2024"
+      },
+      {
+        "id": "rev-2",
+        "authorName": "Priya K.",
+        "authorInitials": "PK",
+        "authorProgram": "Music & Cognitive Science • Cal '25",
+        "rating": 5,
+        "comment": "Patient, thorough, and super fun to work with. She walked me step-by-step through setting up my terminal and git repository without making me feel overwhelmed. Can't wait for our next swap!",
+        "topic": "Git & CLI Basics",
+        "date": "Oct 14, 2024"
+      },
+      {
+        "id": "rev-3",
+        "authorName": "Alex Liu",
+        "authorInitials": "AL",
+        "authorProgram": "Mechanical Engineering • Cal '25",
+        "rating": 5,
+        "comment": "Top-tier peer tutor. Showed up exactly on time at Moffitt Library, had personalized practice problems ready, and didn't leave until I solved the recursion problem myself.",
+        "topic": "Python Recursion",
+        "date": "Sep 29, 2024"
+      },
+      {
+        "id": "rev-4",
+        "authorName": "Sarah O'Connor",
+        "authorInitials": "SO",
+        "authorProgram": "Bioengineering • Cal '27",
+        "rating": 5,
+        "comment": "Maya gave great constructive feedback on my portfolio project. Honest, encouraging, and super clear code comments.",
+        "topic": "Code Review & UI",
+        "date": "Sep 18, 2024"
+      }
+    ],
+    "journey": [
+      {
+        "id": "jm-1",
+        "title": "Completed 10th Spanish Exchange with Carlos M.",
+        "description": "Earned the Polyglot in Progress verified badge after completing a 45-minute live spoken assessment on campus.",
+        "timeAgo": "3 days ago",
+        "date": "Nov 02, 2024",
+        "type": "learning",
+        "creditsChange": 2,
+        "badgeTriggered": "Polyglot in Progress",
+        "partnerName": "Carlos M. (Native Speaker)",
+        "term": "Fall Quadrangle 2024"
+      },
+      {
+        "id": "jm-2",
+        "title": "Hosted Python Graph Algorithms Sprint",
+        "description": "Tutored 4 students in CS61B Midterm Review session. Received unanimous 5.0 ratings for visual graph explanations.",
+        "timeAgo": "Oct 24, 2024",
+        "date": "Oct 24, 2024",
+        "type": "teaching",
+        "creditsChange": 4,
+        "badgeTriggered": "Python Pillar Badge",
+        "partnerName": "Quad Study Group A",
+        "term": "Fall Quadrangle 2024"
+      },
+      {
+        "id": "jm-3",
+        "title": "First Guitar Fingerpicking Session with Priya K.",
+        "description": "Started music exchange in barter for Maya teaching Priya foundational Git branch rebasing.",
+        "timeAgo": "Sep 15, 2024",
+        "date": "Sep 15, 2024",
+        "type": "learning",
+        "creditsChange": 1,
+        "partnerName": "Priya K.",
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-carlos-m",
+    "name": "Carlos Mendoza",
+    "email": "carlos.m@berkeley.edu",
+    "university": "UC Berkeley",
+    "department": "Economics & Spanish",
+    "year": "'26",
+    "bio": "Native Spanish speaker & Econ major. Passionate about macro trends, soccer, and learning Python for data analysis.",
+    "location": "Berkeley, CA",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80",
+    "isVerified": true,
+    "rank": "Senior Mentor",
+    "memberSince": "Jan 2024",
+    "walletBalance": 18,
+    "hoursTaught": 34,
+    "hoursLearned": 14,
+    "peerReputation": 4.98,
+    "reviewCount": 29,
+    "swapFulfillRate": 98,
+    "publicProfileId": "carlos-mendoza-9d3b",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false
+    },
+    "teachingSkills": [
+      {
+        "id": "cm-ts-1",
+        "name": "Conversational & Business Spanish",
+        "category": "Languages",
+        "level": "Mastery",
+        "hoursTaught": 24,
+        "reviewsCount": 20,
+        "endorsementsCount": 22,
+        "proficiencyPercent": 98,
+        "description": "Fluency drills, regional idioms, syntax correction, and pronunciation coaching."
+      },
+      {
+        "id": "cm-ts-2",
+        "name": "Microeconomics & Financial Modeling",
+        "category": "Business & Writing",
+        "level": "Advanced",
+        "hoursTaught": 10,
+        "reviewsCount": 9,
+        "endorsementsCount": 14,
+        "proficiencyPercent": 85,
+        "description": "Supply & demand elasticity, Excel discounting models, and market equilibrium proofs."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "cm-ls-1",
+        "name": "Python for Data Analysis (Pandas & NumPy)",
+        "category": "Computer Science",
+        "currentLevel": "Beginner",
+        "targetLevel": "Intermediate",
+        "progressPercent": 45,
+        "hoursPracticed": 8,
+        "partnerName": "Maya Lin",
+        "targetDate": "Dec 2024"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": []
+  },
+  {
+    "id": "user-priya-k",
+    "name": "Priya Kapoor",
+    "email": "priya.k@berkeley.edu",
+    "university": "UC Berkeley",
+    "department": "Music & Cognitive Science",
+    "year": "'25",
+    "bio": "Classical & contemporary acoustic guitarist. Researching auditory cognition while building sound apps with React.",
+    "location": "Berkeley, CA",
+    "avatarUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=300&q=80",
+    "isVerified": true,
+    "rank": "Campus Fellow",
+    "memberSince": "Sep 2023",
+    "walletBalance": 22,
+    "hoursTaught": 41,
+    "hoursLearned": 25,
+    "peerReputation": 4.96,
+    "reviewCount": 38,
+    "swapFulfillRate": 100,
+    "publicProfileId": "priya-kapoor-4e1c",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false
+    },
+    "teachingSkills": [
+      {
+        "id": "pk-ts-1",
+        "name": "Acoustic Guitar Fingerpicking & Chords",
+        "category": "Music & Arts",
+        "level": "Mastery",
+        "hoursTaught": 28,
+        "reviewsCount": 26,
+        "endorsementsCount": 31,
+        "proficiencyPercent": 95,
+        "description": "Hand ergonomics, standard tuning progressions, Travis picking, and rhythm timing."
+      },
+      {
+        "id": "pk-ts-2",
+        "name": "Harmonic Music Theory & Composition",
+        "category": "Music & Arts",
+        "level": "Advanced",
+        "hoursTaught": 13,
+        "reviewsCount": 12,
+        "endorsementsCount": 18,
+        "proficiencyPercent": 88,
+        "description": "Chord substitutions, circle of fifths, scale modes, and ear training."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "pk-ls-1",
+        "name": "Web Audio API & Modern JavaScript",
+        "category": "Computer Science",
+        "currentLevel": "Intermediate",
+        "targetLevel": "Advanced",
+        "progressPercent": 55,
+        "hoursPracticed": 12,
+        "partnerName": "Maya Lin",
+        "targetDate": "Jan 2025"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": []
+  },
+  {
+    "id": "user-alex-liu",
+    "name": "Alex Liu",
+    "email": "alex.liu@berkeley.edu",
+    "university": "UC Berkeley",
+    "department": "Mechanical Engineering",
+    "year": "'25",
+    "bio": "Robotics enthusiast, CAD modeler (SolidWorks/Fusion360), and 3D print tinkerer. Eager to master web UI development.",
+    "location": "Berkeley, CA",
+    "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Feb 2024",
+    "walletBalance": 12,
+    "hoursTaught": 16,
+    "hoursLearned": 20,
+    "peerReputation": 4.88,
+    "reviewCount": 15,
+    "swapFulfillRate": 96,
+    "publicProfileId": "alex-liu-7b5f",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false
+    },
+    "teachingSkills": [
+      {
+        "id": "al-ts-1",
+        "name": "SolidWorks 3D Modeling & Rapid Prototyping",
+        "category": "Design & UX",
+        "level": "Advanced",
+        "hoursTaught": 16,
+        "reviewsCount": 15,
+        "endorsementsCount": 17,
+        "proficiencyPercent": 90,
+        "description": "Parametric CAD design, assembly tolerances, STL slicing, and 3D printing best practices."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "al-ls-1",
+        "name": "React Frontend Architecture",
+        "category": "Computer Science",
+        "currentLevel": "Beginner",
+        "targetLevel": "Intermediate",
+        "progressPercent": 30,
+        "hoursPracticed": 6,
+        "partnerName": "Open for Swap",
+        "targetDate": "Spring 2025"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": []
+  },
+  {
+    "id": "user-sarah-oc",
+    "name": "Sarah O'Connor",
+    "email": "sarah.oc@berkeley.edu",
+    "university": "UC Berkeley",
+    "department": "Bioengineering",
+    "year": "'27",
+    "bio": "Sophomore in BioE. Love molecular biology lab work, organic chemistry problem sets, and digital scientific illustration.",
+    "location": "Berkeley, CA",
+    "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Mar 2024",
+    "walletBalance": 9,
+    "hoursTaught": 14,
+    "hoursLearned": 18,
+    "peerReputation": 4.92,
+    "reviewCount": 12,
+    "swapFulfillRate": 100,
+    "publicProfileId": "sarah-oconnor-2a8e",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false
+    },
+    "teachingSkills": [
+      {
+        "id": "so-ts-1",
+        "name": "Organic Chemistry Reaction Mechanisms",
+        "category": "Mathematics & Science",
+        "level": "Advanced",
+        "hoursTaught": 14,
+        "reviewsCount": 12,
+        "endorsementsCount": 14,
+        "proficiencyPercent": 88,
+        "description": "Arrow-pushing mechanisms, stereochemistry, resonance stability, and synthesis roadmaps."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "so-ls-1",
+        "name": "Data Structures & Algorithms",
+        "category": "Computer Science",
+        "currentLevel": "Beginner",
+        "targetLevel": "Intermediate",
+        "progressPercent": 35,
+        "hoursPracticed": 7,
+        "partnerName": "Maya Lin",
+        "targetDate": "Dec 2024"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": []
+  },
+  {
+    "id": "user-liam-chen",
+    "name": "Liam Chen",
+    "email": "liam.chen@stanford.edu",
+    "university": "Stanford University",
+    "department": "Data Science & Applied Math",
+    "year": "'25",
+    "bio": "Bay Area inter-campus swap participant. Focused on machine learning statistical foundations and Bayesian inference.",
+    "location": "Palo Alto, CA",
+    "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80",
+    "isVerified": true,
+    "rank": "Campus Fellow",
+    "memberSince": "Nov 2023",
+    "walletBalance": 24,
+    "hoursTaught": 46,
+    "hoursLearned": 30,
+    "peerReputation": 4.97,
+    "reviewCount": 42,
+    "swapFulfillRate": 100,
+    "publicProfileId": "liam-chen-6c4d",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false
+    },
+    "teachingSkills": [
+      {
+        "id": "lc-ts-1",
+        "name": "Statistical Inference & Linear Algebra",
+        "category": "Mathematics & Science",
+        "level": "Mastery",
+        "hoursTaught": 30,
+        "reviewsCount": 28,
+        "endorsementsCount": 35,
+        "proficiencyPercent": 96,
+        "description": "Eigenvalues, SVD decomposition, hypothesis testing, and maximum likelihood estimation."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "lc-ls-1",
+        "name": "Figma UI/UX Prototyping",
+        "category": "Design & UX",
+        "currentLevel": "Beginner",
+        "targetLevel": "Intermediate",
+        "progressPercent": 20,
+        "hoursPracticed": 4,
+        "partnerName": "Seeking Mentor",
+        "targetDate": "Jan 2025"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": []
+  }
+]

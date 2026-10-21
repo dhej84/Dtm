@@ -1,0 +1,283 @@
+[
+  {
+    "id": "lesson-1",
+    "title": "Graph Traversals: BFS, DFS & Dijkstra Made Visual",
+    "skill": "Data Structures & Algorithms",
+    "category": "Computer Science",
+    "description": "Master recursive DFS, iterative BFS with queues, and shortest-path Dijkstra algorithms through visual whiteboard walks and hands-on coding tests.",
+    "skillLevel": "Intermediate",
+    "format": "Interactive Workshop",
+    "teacherId": "user-maya-lin",
+    "teacherName": "Maya Lin",
+    "teacherAvatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuB5CAirUVEEuP1VaUaB2ncK8D66cNXhexcZ4km7DLQPHn2yotteti-3arDFoHSUayl-yhWqANKXtTuZm_HzI-W34ivEOPzq1GB1LxBtCqDm3BU9G-xU59TVPN6fAgidqL2lcwxIiwa4Gj03dyrqaukkf-SaiegusYasEynfjq_hO_EfUODnQlocQWUDKhWUvGHKm8fAao70-gRay5V4JC-CS9xOCqd9iwWHU0NkIqWtzAaiqRff0K2O",
+    "teacherUniversity": "UC Berkeley (CS)",
+    "teacherRating": 4.95,
+    "teacherReviewCount": 32,
+    "durationMinutes": 45,
+    "creditsRequired": 2,
+    "prerequisites": "Basic Python syntax & understanding of adjacency lists",
+    "enrolledStudentsCount": 28,
+    "isCompleted": false,
+    "progressPercent": 66,
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "modules": [
+      {
+        "id": "m1",
+        "title": "Graph Representations (Adjacency Matrix vs List)",
+        "duration": "10 min",
+        "completed": true,
+        "description": "Comparing spatial complexity trade-offs and when to use sparse representations.",
+        "contentSnippet": "def build_adj_list(edges):\n    adj = collections.defaultdict(list)\n    for u, v in edges:\n        adj[u].append(v)\n        adj[v].append(u)\n    return adj"
+      },
+      {
+        "id": "m2",
+        "title": "Breadth-First Search & Level Order Invariants",
+        "duration": "15 min",
+        "completed": true,
+        "description": "Using double-ended queues, cycle prevention via visited sets, and shortest path in unweighted graphs.",
+        "contentSnippet": "queue = deque([start_node])\nvisited = {start_node}\nwhile queue:\n    curr = queue.popleft()\n    for neighbor in adj[curr]:\n        if neighbor not in visited:\n            visited.add(neighbor)\n            queue.append(neighbor)"
+      },
+      {
+        "id": "m3",
+        "title": "Dijkstra's Algorithm with Priority Queues",
+        "duration": "20 min",
+        "completed": false,
+        "description": "Min-heap priority updates, greedy frontier exploration, and edge weight relaxations.",
+        "contentSnippet": "pq = [(0, start_node)]\ndistances = {start_node: 0}\nwhile pq:\n    d, u = heapq.heappop(pq)\n    if d > distances.get(u, float(\"inf\")):\n        continue\n    for v, weight in adj[u]:\n        if d + weight < distances.get(v, float(\"inf\")):\n            distances[v] = d + weight\n            heapq.heappush(pq, (d + weight, v))"
+      }
+    ],
+    "resources": [
+      {
+        "id": "r1",
+        "name": "CS61B_Graph_CheatSheet.pdf",
+        "size": "1.2 MB",
+        "type": "pdf"
+      },
+      {
+        "id": "r2",
+        "name": "graph_traversals_starter.py",
+        "size": "14 KB",
+        "type": "code"
+      },
+      {
+        "id": "r3",
+        "name": "Interactive_Graph_Slides.pdf",
+        "size": "3.4 MB",
+        "type": "slides"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c1",
+        "authorName": "Alex Liu",
+        "authorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80",
+        "authorProgram": "MechE • Cal",
+        "timestamp": "2 hours ago",
+        "text": "The visual comparison between BFS and DFS traversal order made tree height problems so intuitive!",
+        "likes": 4
+      },
+      {
+        "id": "c2",
+        "authorName": "Sarah O'Connor",
+        "authorAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
+        "authorProgram": "BioE • Cal",
+        "timestamp": "1 day ago",
+        "text": "Question on slide 14: when edge weights are negative, why does Dijkstra fail and when should we use Bellman-Ford?",
+        "likes": 6
+      }
+    ],
+    "userNotes": "Remember: Dijkstra fails with negative cycles because greedy assumption that closed distance is finalized gets violated. For unweighted graphs, plain BFS is O(V + E) which is faster than Dijkstra O((V + E) log V)."
+  },
+  {
+    "id": "lesson-2",
+    "title": "Conversational Spanish: Natural Pronunciation & Idioms",
+    "skill": "Spanish Conversation",
+    "category": "Languages",
+    "description": "Break free from stiff textbook phrasing. Practice real collegiate slang, rolling R techniques, and everyday campus scenarios with instant audio-guided feedback.",
+    "skillLevel": "Beginner",
+    "format": "1:1 Tutoring",
+    "teacherId": "user-carlos-m",
+    "teacherName": "Carlos Mendoza",
+    "teacherAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80",
+    "teacherUniversity": "UC Berkeley (Econ & Spanish)",
+    "teacherRating": 4.98,
+    "teacherReviewCount": 29,
+    "durationMinutes": 40,
+    "creditsRequired": 2,
+    "prerequisites": "Basic present tense conjugations (ser, estar, tener)",
+    "enrolledStudentsCount": 19,
+    "isCompleted": true,
+    "progressPercent": 100,
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "modules": [
+      {
+        "id": "m2-1",
+        "title": "Tongue Position for Trilled and Soft \"R\"",
+        "duration": "10 min",
+        "completed": true,
+        "description": "Vocal muscle memory drill: \"pero\" vs \"perro\" and alveolar tap exercises."
+      },
+      {
+        "id": "m2-2",
+        "title": "Everyday Connectors & Thinking Sounds",
+        "duration": "15 min",
+        "completed": true,
+        "description": "Using \"o sea\", \"bueno pues\", \"a ver\", and \"la verdad es que\" instead of english filler words."
+      },
+      {
+        "id": "m2-3",
+        "title": "Campus Life Roleplay Simulation",
+        "duration": "15 min",
+        "completed": true,
+        "description": "Ordering at a café, asking for library directions, and discussing weekend plans."
+      }
+    ],
+    "resources": [
+      {
+        "id": "r2-1",
+        "name": "Spanish_Campus_Slang_Guide.pdf",
+        "size": "850 KB",
+        "type": "pdf"
+      },
+      {
+        "id": "r2-2",
+        "name": "Pronunciation_Audio_Drills.mp3",
+        "size": "4.8 MB",
+        "type": "link"
+      }
+    ],
+    "comments": [
+      {
+        "id": "c2-1",
+        "authorName": "Maya Lin",
+        "authorAvatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuB5CAirUVEEuP1VaUaB2ncK8D66cNXhexcZ4km7DLQPHn2yotteti-3arDFoHSUayl-yhWqANKXtTuZm_HzI-W34ivEOPzq1GB1LxBtCqDm3BU9G-xU59TVPN6fAgidqL2lcwxIiwa4Gj03dyrqaukkf-SaiegusYasEynfjq_hO_EfUODnQlocQWUDKhWUvGHKm8fAao70-gRay5V4JC-CS9xOCqd9iwWHU0NkIqWtzAaiqRff0K2O",
+        "authorProgram": "CS • Cal",
+        "timestamp": "3 days ago",
+        "text": "Carlos is the best! The tongue placement tip for the trilled R made a world of difference.",
+        "likes": 5
+      }
+    ],
+    "userNotes": "Practice phrase: \"El perro de San Roque no tiene rabo\". Focus on relaxed breath rather than forcing tongue tension."
+  },
+  {
+    "id": "lesson-3",
+    "title": "Acoustic Guitar: Travis Picking & Open Tunings",
+    "skill": "Acoustic Guitar",
+    "category": "Music & Arts",
+    "description": "Learn thumb-independence fingerpicking patterns inspired by folk and indie fingerstyle acoustic masters.",
+    "skillLevel": "Beginner",
+    "format": "Practice Lab",
+    "teacherId": "user-priya-k",
+    "teacherName": "Priya Kapoor",
+    "teacherAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=300&q=80",
+    "teacherUniversity": "UC Berkeley (Music & CogSci)",
+    "teacherRating": 4.96,
+    "teacherReviewCount": 38,
+    "durationMinutes": 50,
+    "creditsRequired": 2,
+    "prerequisites": "Familiarity with C, G, Am, and Em open chord shapes",
+    "enrolledStudentsCount": 22,
+    "isCompleted": false,
+    "progressPercent": 33,
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+    "modules": [
+      {
+        "id": "m3-1",
+        "title": "Steady Alternating Bass Note Technique",
+        "duration": "15 min",
+        "completed": true,
+        "description": "Using the right thumb on strings 6, 5, and 4 in continuous quarter notes."
+      },
+      {
+        "id": "m3-2",
+        "title": "Pinch & Syncopated Melody Treble Strings",
+        "duration": "20 min",
+        "completed": false,
+        "description": "Adding index and middle fingers on off-beats against the steady bass."
+      },
+      {
+        "id": "m3-3",
+        "title": "DADGAD Open Tuning Exploration",
+        "duration": "15 min",
+        "completed": false,
+        "description": "Rich drone resonances, modal shapes, and Celtic melodic hooks."
+      }
+    ],
+    "resources": [
+      {
+        "id": "r3-1",
+        "name": "Travis_Picking_Tabs.pdf",
+        "size": "1.5 MB",
+        "type": "pdf"
+      },
+      {
+        "id": "r3-2",
+        "name": "DADGAD_Chord_Chart.pdf",
+        "size": "2.1 MB",
+        "type": "pdf"
+      }
+    ],
+    "comments": [],
+    "userNotes": "Keep metronome at 60 bpm until thumb alternating movement is completely subconscious."
+  },
+  {
+    "id": "lesson-4",
+    "title": "Figma to React: Micro-Interactions & Token Design",
+    "skill": "UI/UX Design",
+    "category": "Design & UX",
+    "description": "How to build production component libraries with clean token systems, fluid motion curves, and accessibility states.",
+    "skillLevel": "Advanced",
+    "format": "Code Walkthrough",
+    "teacherId": "user-maya-lin",
+    "teacherName": "Maya Lin",
+    "teacherAvatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuB5CAirUVEEuP1VaUaB2ncK8D66cNXhexcZ4km7DLQPHn2yotteti-3arDFoHSUayl-yhWqANKXtTuZm_HzI-W34ivEOPzq1GB1LxBtCqDm3BU9G-xU59TVPN6fAgidqL2lcwxIiwa4Gj03dyrqaukkf-SaiegusYasEynfjq_hO_EfUODnQlocQWUDKhWUvGHKm8fAao70-gRay5V4JC-CS9xOCqd9iwWHU0NkIqWtzAaiqRff0K2O",
+    "teacherUniversity": "UC Berkeley (CS)",
+    "teacherRating": 4.95,
+    "teacherReviewCount": 32,
+    "durationMinutes": 60,
+    "creditsRequired": 3,
+    "prerequisites": "Basic CSS & React familiarity",
+    "enrolledStudentsCount": 34,
+    "isCompleted": false,
+    "progressPercent": 0,
+    "modules": [
+      {
+        "id": "m4-1",
+        "title": "Design System Foundations: Colors, Surface & Typography Tokens",
+        "duration": "20 min",
+        "completed": false,
+        "description": "Mapping Figma variables directly into Tailwind CSS @theme definitions."
+      },
+      {
+        "id": "m4-2",
+        "title": "Accessible Focus Rings & State Modifiers",
+        "duration": "20 min",
+        "completed": false,
+        "description": "Building focus-visible rings, screen reader labels, and keyboard navigability."
+      },
+      {
+        "id": "m4-3",
+        "title": "Spring Physics Micro-Interactions with Motion",
+        "duration": "20 min",
+        "completed": false,
+        "description": "Subtle hover elevations, press feedback, and reduced-motion fallback compliance."
+      }
+    ],
+    "resources": [
+      {
+        "id": "r4-1",
+        "name": "Design_System_Figma_Community_Kit.fig",
+        "size": "5.2 MB",
+        "type": "link"
+      },
+      {
+        "id": "r4-2",
+        "name": "Tailwind_Theme_Template.css",
+        "size": "8 KB",
+        "type": "code"
+      }
+    ],
+    "comments": [],
+    "userNotes": ""
+  }
+]

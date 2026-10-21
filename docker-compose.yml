@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  skillswap:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: skillswap-platform
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - MAX_UPLOAD_SIZE_BYTES=2147483648
+      - VITE_API_BASE_URL=/api/v1
+      - VITE_USE_MOCK_API=false
+    volumes:
+      # Persistent host directory mounts so data and uploaded videos survive container restarts & redeployments
+      - ./uploads/data:/app/uploads/data
+      - ./uploads/videos:/app/uploads/videos

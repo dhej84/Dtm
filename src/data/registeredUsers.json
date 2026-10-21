@@ -1,0 +1,1579 @@
+[
+  {
+    "id": "user-1791198700634-y0xj",
+    "name": "Alex Rivera",
+    "email": "arivera@stanford.edu",
+    "password": "securepassword123",
+    "university": "Stanford University",
+    "department": "Mechanical Engineering",
+    "year": "'26",
+    "bio": "Active SkillSwap peer learner and tutor in Mechanical Engineering.",
+    "location": "Stanford University, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex%20Rivera",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1791198700681",
+        "name": "CAD & 3D Modeling",
+        "category": "General",
+        "level": "Intermediate",
+        "hoursTaught": 0,
+        "reviewsCount": 0,
+        "endorsementsCount": 1,
+        "proficiencyPercent": 80,
+        "description": "Verified peer knowledge in CAD & 3D Modeling."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1791198700681",
+        "name": "Python Programming",
+        "category": "General",
+        "currentLevel": "Beginner",
+        "targetLevel": "Advanced",
+        "progressPercent": 10,
+        "hoursPracticed": 0,
+        "partnerName": "Seeking Mentor"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791198700681",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 5, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ],
+    "publicProfileId": "alex-rivera-dfv1",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "passwordHash": "4d9853d32e85a89c30d75fcb8ca8215e:ac8b7317f9b3afe92c91d62e3292f4b831580f91e91f5ea6c79835b91ade78225925cbac936a86b642e555547331a3b376fa695bc185311027ea6eb6c3b8e698"
+  },
+  {
+    "id": "user-1791281823926-zzel",
+    "name": "Ethan Wright",
+    "email": "ethan.muwiy52t@berkeley.edu",
+    "password": "Password123!",
+    "university": "UC Berkeley",
+    "department": "Data Science",
+    "year": "'26",
+    "bio": "Active SkillSwap peer learner and tutor in Data Science.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ethan%20Wright",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "ethan-wright-fr7z",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [],
+    "learningSkills": [],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791281823960",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 6, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1791281823976-jixg",
+    "name": "Zoe Martinez",
+    "email": "zoe.muwiy52t@berkeley.edu",
+    "password": "Password123!",
+    "university": "UC Berkeley",
+    "department": "Bioengineering",
+    "year": "'26",
+    "bio": "Active SkillSwap peer learner and tutor in Bioengineering.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Zoe%20Martinez",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "zoe-martinez-252d",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [],
+    "learningSkills": [],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791281823976",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 6, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1791359154530-dfpw",
+    "name": "Ethan Wright",
+    "email": "ethan.wright.test@berkeley.edu",
+    "password": "password123",
+    "university": "UC Berkeley",
+    "department": "Data Science",
+    "year": "'26",
+    "bio": "Active SkillSwap peer learner and tutor in Data Science.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ethan%20Wright",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "ethan-wright-dvpy",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1791359154566",
+        "name": "Data Visualization",
+        "category": "General",
+        "level": "Advanced",
+        "hoursTaught": 0,
+        "reviewsCount": 0,
+        "endorsementsCount": 1,
+        "proficiencyPercent": 80,
+        "description": "Verified peer knowledge in Data Visualization."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1791359154566",
+        "name": "Machine Learning",
+        "category": "General",
+        "currentLevel": "Beginner",
+        "targetLevel": "Advanced",
+        "progressPercent": 10,
+        "hoursPracticed": 0,
+        "partnerName": "Seeking Mentor"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791359154566",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 7, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1791359154574-524x",
+    "name": "Varshita Sundar",
+    "email": "varshithasundar07@gmail.com",
+    "password": "password123",
+    "university": "UC Berkeley",
+    "department": "Computer Science",
+    "year": "'25",
+    "bio": "Active SkillSwap peer learner and tutor in Computer Science.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Varshita%20Sundar",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "varshita-sundar-nynr",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1791359154574",
+        "name": "Python Systems",
+        "category": "General",
+        "level": "Mastery",
+        "hoursTaught": 0,
+        "reviewsCount": 0,
+        "endorsementsCount": 1,
+        "proficiencyPercent": 80,
+        "description": "Verified peer knowledge in Python Systems."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1791359154574",
+        "name": "Cloud Architecture",
+        "category": "General",
+        "currentLevel": "Beginner",
+        "targetLevel": "Advanced",
+        "progressPercent": 10,
+        "hoursPracticed": 0,
+        "partnerName": "Seeking Mentor"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791359154574",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 7, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ],
+    "passwordHash": "8bbc8b76e2e65a4e7cf70c505d6dff84:0620ab61095f89e23dd50225f444479ee564f35a223acacd5497e00e52a822bc1000f2cb1c1c7112cb2c3af21ef59a8b74b88076e431ff5de574ab2276c96e45",
+    "emailAliases": [
+      "varshithasundar07@gmail.com",
+      "varshitha.sundar07@gmail.com",
+      "varshitha.sundar.test@berkeley.edu"
+    ]
+  },
+  {
+    "id": "user-1791561101875-oe7v",
+    "name": "Test Student A",
+    "email": "test.student.a@berkeley.edu",
+    "password": "password123",
+    "university": "UC Berkeley",
+    "department": "Physics",
+    "year": "2026",
+    "bio": "Active SkillSwap peer learner and tutor in Physics.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Test%20Student%20A",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "test-student-a-l6s3",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1791561101907",
+        "name": "Quantum Mechanics",
+        "category": "General",
+        "level": "Intermediate",
+        "hoursTaught": 0,
+        "reviewsCount": 0,
+        "endorsementsCount": 1,
+        "proficiencyPercent": 80,
+        "description": "Verified peer knowledge in Quantum Mechanics."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1791561101907",
+        "name": "Python",
+        "category": "General",
+        "currentLevel": "Beginner",
+        "targetLevel": "Advanced",
+        "progressPercent": 10,
+        "hoursPracticed": 0,
+        "partnerName": "Seeking Mentor"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791561101907",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 9, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1791561719300-5s9p",
+    "name": "Sam Brand New",
+    "email": "new.student.1791561719298@berkeley.edu",
+    "password": "securePassword123",
+    "university": "UC Berkeley",
+    "department": "Economics",
+    "year": "2027",
+    "bio": "Active SkillSwap peer learner and tutor in Economics.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sam%20Brand%20New",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "sam-brand-new-lsi2",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1791561719305",
+        "name": "Econometrics & R",
+        "category": "General",
+        "level": "Intermediate",
+        "hoursTaught": 0,
+        "reviewsCount": 0,
+        "endorsementsCount": 1,
+        "proficiencyPercent": 80,
+        "description": "Verified peer knowledge in Econometrics & R."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1791561719305",
+        "name": "Full-Stack Web Dev",
+        "category": "General",
+        "currentLevel": "Beginner",
+        "targetLevel": "Advanced",
+        "progressPercent": 10,
+        "hoursPracticed": 0,
+        "partnerName": "Seeking Mentor"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791561719305",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 9, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1791561794793-jhse",
+    "name": "Verified Student",
+    "email": "verified.student.1791561794774@berkeley.edu",
+    "password": "password123",
+    "university": "UC Berkeley",
+    "department": "Electrical Engineering",
+    "year": "2026",
+    "bio": "Active SkillSwap peer learner and tutor in Electrical Engineering.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Verified%20Student",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "verified-student-nyu0",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1791561794799",
+        "name": "Circuit Design",
+        "category": "General",
+        "level": "Intermediate",
+        "hoursTaught": 0,
+        "reviewsCount": 0,
+        "endorsementsCount": 1,
+        "proficiencyPercent": 80,
+        "description": "Verified peer knowledge in Circuit Design."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1791561794799",
+        "name": "Rust Programming",
+        "category": "General",
+        "currentLevel": "Beginner",
+        "targetLevel": "Advanced",
+        "progressPercent": 10,
+        "hoursPracticed": 0,
+        "partnerName": "Seeking Mentor"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791561794799",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 9, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1791709646338-v08i",
+    "name": "Jordan Lee",
+    "email": "verify_1791709646333@berkeley.edu",
+    "password": "StrongPassword123!",
+    "university": "UC Berkeley",
+    "department": "General Studies",
+    "year": "'26",
+    "bio": "Active SkillSwap peer learner and tutor in College.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan%20Lee",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "jordan-lee-9tb2",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [],
+    "learningSkills": [],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791709646346",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 11, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1791709663257-r203",
+    "name": "Jordan Lee",
+    "email": "verify_1791709663255@berkeley.edu",
+    "password": "StrongPassword123!",
+    "university": "UC Berkeley",
+    "department": "General Studies",
+    "year": "'26",
+    "bio": "Active SkillSwap peer learner and tutor in College.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jordan%20Lee",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "jordan-lee-zk8u",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [],
+    "learningSkills": [],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791709663257",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 11, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1791710043873-o2q6",
+    "name": "Elena Rostova",
+    "email": "verify_1791710043870@berkeley.edu",
+    "password": "StrongPassword123!",
+    "university": "UC Berkeley",
+    "department": "General Studies",
+    "year": "'26",
+    "bio": "Active SkillSwap peer learner and tutor in College.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Elena%20Rostova",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "elena-rostova-fen2",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [],
+    "learningSkills": [],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791710043878",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 11, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1791710181068-2zz0",
+    "name": "Auditor Student",
+    "email": "audit_user_1791710180865@berkeley.edu",
+    "password": "AuditPassword123!",
+    "university": "UC Berkeley",
+    "department": "General Studies",
+    "year": "'26",
+    "bio": "Passionate about distributed systems & guitar!",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Auditor%20Student",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "auditor-student-lv5r",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [],
+    "learningSkills": [],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791710181074",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 11, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1791710223676-ov51",
+    "name": "Auditor Student",
+    "email": "audit_user_1791710223649@berkeley.edu",
+    "password": "AuditPassword123!",
+    "university": "UC Berkeley",
+    "department": "General Studies",
+    "year": "'26",
+    "bio": "Passionate about distributed systems & guitar!",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Auditor%20Student",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "auditor-student-bcf2",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [],
+    "learningSkills": [],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791710223677",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 11, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1791710798970-li2u",
+    "name": "Test User",
+    "email": "testuser99@campus.edu",
+    "password": "Password123!",
+    "university": "UC Berkeley",
+    "department": "General Studies",
+    "year": "'26",
+    "bio": "Active SkillSwap peer learner and tutor in College.",
+    "location": "Campus, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Test%20User",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "test-user-uizl",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [],
+    "learningSkills": [],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791710798975",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 11, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1791711087831-adxf",
+    "name": "Cross Device Student",
+    "email": "crossdevice@campus.edu",
+    "password": "SecurePassword2026!",
+    "university": "UC Berkeley",
+    "department": "General Studies",
+    "year": "'26",
+    "bio": "Active SkillSwap peer learner and tutor in College.",
+    "location": "Campus, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Cross%20Device%20Student",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "cross-device-student-9dev",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1791711087837",
+        "name": "Rust Programming",
+        "category": "General",
+        "level": "Advanced",
+        "hoursTaught": 0,
+        "reviewsCount": 0,
+        "endorsementsCount": 1,
+        "proficiencyPercent": 80,
+        "description": "Verified peer knowledge in Rust Programming."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1791711087837",
+        "name": "UI Design",
+        "category": "General",
+        "currentLevel": "Beginner",
+        "targetLevel": "Advanced",
+        "progressPercent": 10,
+        "hoursPracticed": 0,
+        "partnerName": "Seeking Mentor"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791711087837",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 11, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1791880843331-gytf",
+    "name": "Test User Real",
+    "email": "test.real@campus.edu",
+    "password": "RealPassword123!",
+    "university": "Stanford University",
+    "department": "Engineering",
+    "year": "'26",
+    "bio": "Active SkillSwap peer learner and tutor in Engineering.",
+    "location": "Stanford University, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Test%20User%20Real",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "test-user-real-ncjs",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1791880843339",
+        "name": "Robotics",
+        "category": "General",
+        "level": "Intermediate",
+        "hoursTaught": 0,
+        "reviewsCount": 0,
+        "endorsementsCount": 1,
+        "proficiencyPercent": 80,
+        "description": "Verified peer knowledge in Robotics."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1791880843339",
+        "name": "AI",
+        "category": "General",
+        "currentLevel": "Beginner",
+        "targetLevel": "Advanced",
+        "progressPercent": 10,
+        "hoursPracticed": 0,
+        "partnerName": "Seeking Mentor"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791880843339",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 13, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1791881078257-4svt",
+    "name": "Test Student Diagnostic",
+    "email": "diagnostic.student@berkeley.edu",
+    "password": "Password123!",
+    "university": "UC Berkeley",
+    "department": "EECS",
+    "year": "'26",
+    "bio": "Active SkillSwap peer learner and tutor in EECS.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Test%20Student%20Diagnostic",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "test-student-diagnostic-imsq",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1791881078257",
+        "name": "Rust",
+        "category": "General",
+        "level": "Intermediate",
+        "hoursTaught": 0,
+        "reviewsCount": 0,
+        "endorsementsCount": 1,
+        "proficiencyPercent": 80,
+        "description": "Verified peer knowledge in Rust."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1791881078257",
+        "name": "Go",
+        "category": "General",
+        "currentLevel": "Beginner",
+        "targetLevel": "Advanced",
+        "progressPercent": 10,
+        "hoursPracticed": 0,
+        "partnerName": "Seeking Mentor"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791881078257",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 13, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ],
+    "passwordHash": "57925e7ab580fef192b8544723254e20:9cf08990ad9c487a1cc718c8985953d2103dd2d008a64b58678ad83e3d319407e00f3cdfef1353cb5bee3fb8cb8e725993493d6c044fe2f63f872ae128593e74"
+  },
+  {
+    "id": "user-1791881613885-g15q",
+    "name": "Clara Vance",
+    "email": "student_1791881613846@berkeley.edu",
+    "password": "MySecurePass2026!",
+    "passwordHash": "01be806ade0e9e95a158c6910dd3dcd9:3cd4edee5b19ee152bdeeefa7157c025767eb10f998a3e1866877c08efee041f25edec154518bf7e6fd601036a936e1ff90371c99bde499e7c9c4f32192ea584",
+    "university": "UC Berkeley",
+    "department": "Bioengineering",
+    "year": "'26",
+    "bio": "Active SkillSwap peer learner and tutor in Bioengineering.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Clara%20Vance",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "clara-vance-99c1",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1791881613892",
+        "name": "Microbiology",
+        "category": "General",
+        "level": "Intermediate",
+        "hoursTaught": 0,
+        "reviewsCount": 0,
+        "endorsementsCount": 1,
+        "proficiencyPercent": 80,
+        "description": "Verified peer knowledge in Microbiology."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1791881613893",
+        "name": "Python for Data",
+        "category": "General",
+        "currentLevel": "Beginner",
+        "targetLevel": "Advanced",
+        "progressPercent": 10,
+        "hoursPracticed": 0,
+        "partnerName": "Seeking Mentor"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791881613893",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 13, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1791882227661-8fxe",
+    "name": "Clara Barton",
+    "email": "clara.1791882227527@berkeley.edu",
+    "password": "StrongPassword789!",
+    "passwordHash": "0e0ed998b4829658f299695121db8191:2e49a4ce77b9cfd4f1637d3b886f80c7852ad00af7d9039fe4c0ca0445f62255248795166c716cdc6c525c78461f7cbae1a440b5ff0f8b6566eb3e5c54e7bda9",
+    "university": "UC Berkeley",
+    "department": "Bioengineering",
+    "year": "25",
+    "bio": "Active SkillSwap peer learner and tutor in Bioengineering.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Clara%20Barton",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "clara-barton-7fck",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1791882227668",
+        "name": "Biomechanics",
+        "category": "General",
+        "level": "Advanced",
+        "hoursTaught": 0,
+        "reviewsCount": 0,
+        "endorsementsCount": 1,
+        "proficiencyPercent": 80,
+        "description": "Verified peer knowledge in Biomechanics."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1791882227668",
+        "name": "Data Structures",
+        "category": "General",
+        "currentLevel": "Beginner",
+        "targetLevel": "Advanced",
+        "progressPercent": 10,
+        "hoursPracticed": 0,
+        "partnerName": "Seeking Mentor"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791882227668",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 13, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1791882916917-yyb0",
+    "name": "Maya Angelou Student",
+    "email": "maya.student.1791882916759@berkeley.edu",
+    "password": "Password987!",
+    "passwordHash": "024ba0e36dfc3cf59f890f4d0aaee0e6:565d8ac1b8d8e36e775acc22f5e602273764e7c5a68c159c036b1ecf17502b13c2c6264c2acea4caa04d64ba5850eab52ea6b93b5f0b9a60f7ba3cc4e16b9ffe",
+    "university": "UC Berkeley",
+    "department": "Literature & Arts",
+    "year": "26",
+    "bio": "Active SkillSwap peer learner and tutor in Literature & Arts.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Maya%20Angelou%20Student",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "maya-angelou-student-j2y7",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1791882916927",
+        "name": "Creative Writing",
+        "category": "General",
+        "level": "Mastery",
+        "hoursTaught": 0,
+        "reviewsCount": 0,
+        "endorsementsCount": 1,
+        "proficiencyPercent": 80,
+        "description": "Verified peer knowledge in Creative Writing."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1791882916927",
+        "name": "Data Science",
+        "category": "General",
+        "currentLevel": "Beginner",
+        "targetLevel": "Advanced",
+        "progressPercent": 10,
+        "hoursPracticed": 0,
+        "partnerName": "Seeking Mentor"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1791882916927",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 13, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1792052224371-1v0u",
+    "name": "Student Alpha",
+    "email": "student.a.1792052224226@berkeley.edu",
+    "passwordHash": "cdc1cdc1e2e7c248a88f9097c9021cc9:a0326566132f7477f1e0d5d7ff5f3e5466a99813f74ade5261eeb56435c1170a972102b5e943a39e154f7619a7307beefad64e52f2df0c095aa72d53c4fffbb6",
+    "university": "UC Berkeley",
+    "department": "Data Science",
+    "year": "27",
+    "bio": "Active SkillSwap peer learner and tutor in Data Science.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Student%20Alpha",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "student-alpha-tkzq",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1792052224405",
+        "name": "Machine Learning with PyTorch",
+        "category": "General",
+        "level": "Advanced",
+        "hoursTaught": 0,
+        "reviewsCount": 0,
+        "endorsementsCount": 1,
+        "proficiencyPercent": 80,
+        "description": "Verified peer knowledge in Machine Learning with PyTorch."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1792052224405",
+        "name": "Public Speaking",
+        "category": "General",
+        "currentLevel": "Beginner",
+        "targetLevel": "Advanced",
+        "progressPercent": 10,
+        "hoursPracticed": 0,
+        "partnerName": "Seeking Mentor"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1792052224405",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 15, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1792052224455-x9zg",
+    "name": "Student Beta",
+    "email": "student.b.1792052224226@stanford.edu",
+    "passwordHash": "601fdd1a8476d704fe794dbb69c656d6:8d618466ee00c7d65e694ce630b4c4ad910ea9e32057e4ac74c301e45c39a492065b98bfe5ff22f9839eb57b52d0280f6e67fb431c366db57df0b6670d468072",
+    "university": "Stanford University",
+    "department": "Computer Science",
+    "year": "26",
+    "bio": "Active SkillSwap peer learner and tutor in Computer Science.",
+    "location": "Stanford University, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Student%20Beta",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "student-beta-j121",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1792052224456",
+        "name": "Distributed Systems & Go",
+        "category": "General",
+        "level": "Mastery",
+        "hoursTaught": 0,
+        "reviewsCount": 0,
+        "endorsementsCount": 1,
+        "proficiencyPercent": 80,
+        "description": "Verified peer knowledge in Distributed Systems & Go."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1792052224457",
+        "name": "Machine Learning with PyTorch",
+        "category": "General",
+        "currentLevel": "Beginner",
+        "targetLevel": "Advanced",
+        "progressPercent": 10,
+        "hoursPracticed": 0,
+        "partnerName": "Seeking Mentor"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1792052224457",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 15, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1792052288691-vfez",
+    "name": "Fresh Student",
+    "email": "test.student.1792052288566@berkeley.edu",
+    "passwordHash": "efcf3aafb9aed52d16ff062c29e99922:8bb4ade625c65d715ef44d690f93227854eaa04d384c26dd210b9c4edc6e81ec43706661f92e9e23c7dd015061975d8f6b23f3f1d89d365587c6fc0ca5327702",
+    "university": "UC Berkeley",
+    "department": "EECS",
+    "year": "26",
+    "bio": "Active SkillSwap peer learner and tutor in EECS.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Fresh%20Student",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "fresh-student-fqa2",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1792052288697",
+        "name": "TypeScript & React",
+        "category": "General",
+        "level": "Advanced",
+        "hoursTaught": 0,
+        "reviewsCount": 0,
+        "endorsementsCount": 1,
+        "proficiencyPercent": 80,
+        "description": "Verified peer knowledge in TypeScript & React."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1792052288697",
+        "name": "Computer Architecture",
+        "category": "General",
+        "currentLevel": "Beginner",
+        "targetLevel": "Advanced",
+        "progressPercent": 10,
+        "hoursPracticed": 0,
+        "partnerName": "Seeking Mentor"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1792052288697",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 15, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1792388193677-18ni",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@berkeley.edu",
+    "passwordHash": "2261ce63054eeb5617429bf56477d2a3:c5cc878302233efd0043c8d2ec08900e2082f91c260202ff28d7325ad11e4319029c10847e49dc6bfb16d41fc36efe552d7acf164efe4ee41802f130c4311552",
+    "university": "UC Berkeley",
+    "department": "EECS",
+    "year": "'26",
+    "bio": "Active SkillSwap peer learner and tutor in EECS.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya%20Sharma",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "priya-sharma-kpxm",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1792388193725",
+        "name": "React Native",
+        "category": "General",
+        "level": "Advanced",
+        "hoursTaught": 0,
+        "reviewsCount": 0,
+        "endorsementsCount": 1,
+        "proficiencyPercent": 80,
+        "description": "Verified peer knowledge in React Native."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1792388193725",
+        "name": "Python Systems",
+        "category": "General",
+        "currentLevel": "Beginner",
+        "targetLevel": "Advanced",
+        "progressPercent": 10,
+        "hoursPracticed": 0,
+        "partnerName": "Seeking Mentor"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1792388193725",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 19, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  },
+  {
+    "id": "user-1792388328538-3qdt",
+    "name": "Marcus Vance",
+    "email": "student.test.1792388328534@berkeley.edu",
+    "passwordHash": "ed30f8f0d50374e471469463b0bd9486:c1d37a5884a82919aeb99328bfa274e8c9cd1a704d5f59f13e9de3ccc4efe93fb7b1c2419f680c57ac0a6b7b22ae3519b93b22abca4afe3a0b084bb64aa3194c",
+    "university": "UC Berkeley",
+    "department": "Data Science",
+    "year": "'26",
+    "bio": "Active SkillSwap peer learner and tutor in Data Science.",
+    "location": "UC Berkeley, CA",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Marcus%20Vance",
+    "isVerified": true,
+    "rank": "Active Tutor",
+    "memberSince": "Oct 2026",
+    "walletBalance": 10,
+    "hoursTaught": 0,
+    "hoursLearned": 0,
+    "peerReputation": 5,
+    "reviewCount": 0,
+    "swapFulfillRate": 100,
+    "publicProfileId": "marcus-vance-bz4d",
+    "publicProfileEnabled": true,
+    "publicLearningHistory": true,
+    "privacy": {
+      "verifiedPeersOnly": true,
+      "allowDirectSwaps": true,
+      "publicLearningHistory": true,
+      "maskReviews": false,
+      "publicProfileEnabled": true
+    },
+    "teachingSkills": [
+      {
+        "id": "ts-1792388328549",
+        "name": "Deep Learning",
+        "category": "General",
+        "level": "Advanced",
+        "hoursTaught": 0,
+        "reviewsCount": 0,
+        "endorsementsCount": 1,
+        "proficiencyPercent": 80,
+        "description": "Verified peer knowledge in Deep Learning."
+      }
+    ],
+    "learningSkills": [
+      {
+        "id": "ls-1792388328549",
+        "name": "Python Systems",
+        "category": "General",
+        "currentLevel": "Beginner",
+        "targetLevel": "Advanced",
+        "progressPercent": 10,
+        "hoursPracticed": 0,
+        "partnerName": "Seeking Mentor"
+      }
+    ],
+    "badges": [],
+    "reviews": [],
+    "journey": [
+      {
+        "id": "m-1792388328549",
+        "title": "Joined SkillSwap Campus Network",
+        "description": "Completed onboarding profile and verified campus credentials.",
+        "timeAgo": "Just now",
+        "date": "Oct 19, 2026",
+        "type": "badge",
+        "creditsChange": 10,
+        "term": "Fall Quadrangle 2024"
+      }
+    ]
+  }
+]

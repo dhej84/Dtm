@@ -1,0 +1,7 @@
+{
+  "name": "SkillSwap",
+  "description": "Collegiate peer-to-peer learning platform where university students exchange skills, earn swap credits, and build verified badge portfolios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "sk-1",
+    "name": "Data Structures & Algorithms",
+    "category": "Computer Science",
+    "popularity": 98,
+    "studentsCount": 142
+  },
+  {
+    "id": "sk-2",
+    "name": "Web Dev (React & Tailwind)",
+    "category": "Computer Science",
+    "popularity": 95,
+    "studentsCount": 128
+  },
+  {
+    "id": "sk-3",
+    "name": "Python for Data Analysis",
+    "category": "Computer Science",
+    "popularity": 94,
+    "studentsCount": 115
+  },
+  {
+    "id": "sk-4",
+    "name": "Conversational Spanish",
+    "category": "Languages",
+    "popularity": 89,
+    "studentsCount": 84
+  },
+  {
+    "id": "sk-5",
+    "name": "Acoustic Guitar & Music Theory",
+    "category": "Music & Arts",
+    "popularity": 86,
+    "studentsCount": 67
+  },
+  {
+    "id": "sk-6",
+    "name": "UI/UX Design & Prototyping",
+    "category": "Design & UX",
+    "popularity": 91,
+    "studentsCount": 93
+  },
+  {
+    "id": "sk-7",
+    "name": "Linear Algebra & Calculus",
+    "category": "Mathematics & Science",
+    "popularity": 84,
+    "studentsCount": 76
+  },
+  {
+    "id": "sk-8",
+    "name": "Public Speaking & Presentation",
+    "category": "Business & Writing",
+    "popularity": 82,
+    "studentsCount": 59
+  },
+  {
+    "id": "sk-9",
+    "name": "Machine Learning Foundations",
+    "category": "Computer Science",
+    "popularity": 96,
+    "studentsCount": 130
+  },
+  {
+    "id": "sk-10",
+    "name": "French Pronunciation & Grammar",
+    "category": "Languages",
+    "popularity": 78,
+    "studentsCount": 45
+  },
+  {
+    "id": "skill-1791111028195-fa25",
+    "name": "Distributed Systems",
+    "category": "Computer Science",
+    "description": "Peer workshop skill: Distributed Systems",
+    "difficultyLevels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Mastery"
+    ],
+    "activeLearnersCount": 1,
+    "activeMentorsCount": 1
+  }
+]

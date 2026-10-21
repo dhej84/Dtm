@@ -1,0 +1,28 @@
+[
+  {
+    "id": "n-1",
+    "title": "New Swap Proposal",
+    "message": "Alex Liu proposed a barter: SolidWorks 3D Modeling ⇄ React Hooks.",
+    "timestamp": "5 hours ago",
+    "read": true,
+    "type": "swap_request",
+    "actionUrl": "#connections"
+  },
+  {
+    "id": "n-2",
+    "title": "Badge Endorsement",
+    "message": "Carlos M. and 2 other peers endorsed your \"Python Pillar\" badge!",
+    "timestamp": "1 day ago",
+    "read": false,
+    "type": "badge_earned",
+    "actionUrl": "#my-profile-and-badges"
+  },
+  {
+    "id": "n-3",
+    "title": "Swap Completed & +2 Credits",
+    "message": "10th Spanish Exchange with Carlos M. verified. 2 Swap Credits deposited in your wallet.",
+    "timestamp": "3 days ago",
+    "read": true,
+    "type": "swap_request"
+  }
+]
